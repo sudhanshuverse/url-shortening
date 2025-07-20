@@ -6,7 +6,7 @@ A responsive and modern landing page for a fictional URL shortening service. Bui
 
 ## 🌐 Live Preview
 
-[🔴 View Live Demo](https://your-live-site-link.com)  
+[🔴 View Live Demo](https://sudhanshuverse.github.io/url-shortening/)
 _(Replace the above link with your deployment URL, e.g., GitHub Pages, Netlify, Vercel)_
 
 ---
